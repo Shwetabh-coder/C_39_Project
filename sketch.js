@@ -95,7 +95,7 @@ function draw() {
       reset();
     }
   
-  console.log(frameCount);
+  //console.log(frameCount);
   drawSprites();
 }
 
